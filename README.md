@@ -1,4 +1,4 @@
-SUMMERIZER
+# SUMMERIZER
 
 1. Upload the PDF files or any urls through Streamlit UI
 2. It Extracts all text from uploaded PDFs or Urls.
